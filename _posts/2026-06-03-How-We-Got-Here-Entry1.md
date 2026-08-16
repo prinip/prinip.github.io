@@ -16,11 +16,6 @@ It eventually made a request, but I did NOT expect it to take THIS long for the 
 
 Faat forward to 3 years later. It's like June 2, 2026. I just came back home from a massive clean up drive my High School decided to do because the Academic Year was fast coming. I checked my notifications, and then I got a weird Email from a certain noreply email telling me that my domain of "ultrasmp.eu.org" had just been registered and that the domain will be propogated with 12-24 hours time.
 
-<figure style="text-align: center;">
-  <img src="/assets/Screenshot_20260603_201158.jpg" alt="Description" style="width: 300px;">
-  <figcaption>The aforementioned Email.</figcaption>
-</figure>
-
 At first, I was like *"What the hell?"* and almost immediately spun up a new Aternos account to test. Sure enough, it worked, but, at this point, I basically didn't play Minecraft as much or even once since ateast 2024.
 
 I immediately than began looking into moving my nameservers into Cloudflare (which offer a Free Tier of their Enterprise Grade Domain Control and Protection) and then from there hopefully route a subdomain (the domain **YOU** are on right now is **THAT** subdomain) to redirect to a Github Pages personal website, due to me wanting to still use the main domain for Aternos.
