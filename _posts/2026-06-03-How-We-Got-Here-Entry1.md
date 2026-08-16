@@ -1,7 +1,8 @@
 ---
-layout: post
 title: How We Got Here
-description: " "
+date: 2026-06-03 18:09:12 +/-TTTT
+categories: [Random, Opening_Posts]
+tags: [introduction]     # TAG names should always be lowercase
 ---
 
 Hi. Welcome to my little corner of the internet. You might be asking, *Well, what the heck even is this?*, and I'm here to answer that. Before I say anything else, I just want readers to know that I kinda suck at English, so if somebody reading this doesn't understand something, uh, hit me up on Discord ig? Anyways, let's get to the Story.
